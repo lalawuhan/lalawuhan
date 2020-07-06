@@ -1,5 +1,5 @@
-### Dumelang, 大家好, Hi 👋🏾 my name is 
-![Rethabile Segoe](https://res.cloudinary.com/dsdd1sdbk/image/upload/v1594069084/Rethabile_Segoe_fn7xez.gif)
+### Dumelang, 大家好, Hi 👋🏾 
+![Rethabile Segoe](https://res.cloudinary.com/dsdd1sdbk/image/upload/v1594069349/Rethabile_Segoe_1_kszthj.gif)
 <table>
 <tr>
 <td>
