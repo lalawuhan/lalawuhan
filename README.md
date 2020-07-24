@@ -32,4 +32,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter [@thabisegoe](https://twitter.com/thabisegoe)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can speak Mandarin
+
+![Visitor Count](https://profile-counter.glitch.me/lalawuhan/count.svg)
+
 -->
