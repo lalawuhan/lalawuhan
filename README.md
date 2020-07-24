@@ -18,7 +18,7 @@ It's always difficult to describe yourself right? Well, I can tell you about wha
 - 📫 How to reach me: Twitter [@thabisegoe](https://twitter.com/thabisegoe)
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts: I speak Mandarin, I really like scrabble and I used to make mods for the sims 
-
+- ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lalawuhan/lalawuhan&title=Visitors)
 <!--
 **lalawuhan/lalawuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
